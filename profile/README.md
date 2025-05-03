@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # updatetheapp.com
 
 > OTA updates. App distribution. Release automation — with speed and control.  
