@@ -7,7 +7,8 @@
 
 ---
 
-🙋‍♀️ **What is updatetheapp.com?**  
+🙋‍♀️ **What is updatetheapp.com?**
+
 A modern platform to manage over-the-air (OTA) updates, binary distribution, and app release workflows — with performance, flexibility, and full control.
 
 Built for teams shipping React Native and Expo apps (Electron support coming soon).
