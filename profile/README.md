@@ -14,7 +14,7 @@ Built for teams shipping React Native and Expo apps (Electron support coming soo
 👩‍💻 **Resources**
 
 - 📘 [Documentation](https://docs.updatetheapp.com)  
-- 🛠️ [CLI Tools](https://github.com/updatetheapp/code-push-cli)  
+- 🛠️ [CLI Tools](https://github.com/updatetheapp/uta-codepush-cli)
 - 💬 [Feedback & Ideas](https://github.com/updatetheapp/feedback)
 
 🌱 **Contributions**
